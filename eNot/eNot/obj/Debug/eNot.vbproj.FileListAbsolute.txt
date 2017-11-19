@@ -1,0 +1,66 @@
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.exe
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.pdb
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.xml
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form1.resources
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Resources.resources
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.exe
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.xml
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.pdb
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form2.resources
+C:\Documents and Settings\Yusuf\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form3.resources
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.exe
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.xml
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.pdb
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.exe
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.pdb
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.xml
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\ResolveAssemblyReference.cache
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form1.resources
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form2.resources
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form3.resources
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form4.resources
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Resources.resources
+G:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.vbproj.GenerateResource.Cache
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.exe
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.xml
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.pdb
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.exe
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.pdb
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.xml
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\ResolveAssemblyReference.cache
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form1.resources
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form2.resources
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form3.resources
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form4.resources
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Resources.resources
+F:\Belgelerim\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.vbproj.GenerateResource.Cache
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.exe
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.xml
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.pdb
+C:\Users\ysfbil\Desktop\eNot\eNot\bin\Debug\eNot.exe
+C:\Users\ysfbil\Desktop\eNot\eNot\bin\Debug\eNot.pdb
+C:\Users\ysfbil\Desktop\eNot\eNot\bin\Debug\eNot.xml
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.Form1.resources
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.Form2.resources
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.Form3.resources
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.Form4.resources
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.Resources.resources
+C:\Users\ysfbil\Desktop\eNot\eNot\obj\Debug\eNot.vbproj.GenerateResource.Cache
+C:\Users\ysfbil\Desktop\eNot\eNot\bin\Debug\deneme.htm
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.exe
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.xml
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.pdb
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\deneme.htm
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.exe
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.pdb
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\bin\Debug\eNot.xml
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form1.resources
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form2.resources
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form3.resources
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form4.resources
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Resources.resources
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.vbproj.GenerateResource.Cache
+C:\Users\ysfbil\Documents\Visual Studio 2008\Projects\eNot\eNot\obj\Debug\eNot.Form5.resources
